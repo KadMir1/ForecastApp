@@ -34,7 +34,7 @@
 <br>
 1.Скриншот экрана погоды в метрической системе измерения
 <br>
-![](ForecastApp/Screenshots/Screenshot1.png)
+![alt text](https://github.com/KadMir1/ForecastApp/blob/master/Screenshots/Screenshot1.png)
 <br>
 2.Скриншот экрана погоды в имперской системе измерения
 <br>  
