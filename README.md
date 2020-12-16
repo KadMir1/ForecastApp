@@ -30,7 +30,7 @@
 <li> Preference
 <li> WeatherLocation
 <li> Material Design
-
+<br>
 <br>
 1.Скриншот экрана погоды в метрической системе измерения
 ![Screenshots](Screenshot1.png)
