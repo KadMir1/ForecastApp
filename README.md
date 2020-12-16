@@ -32,10 +32,10 @@
 <li> Material Design
 
 1.Скриншот экрана погоды в метрической системе измерения
-![Screenshot](Screenshot1.png)
+![Screenshots](Screenshot1.png)
 2.Скриншот экрана погоды в имперской системе измерения
-![Screenshot](Screenshot3.png)
+![Screenshots](Screenshot3.png)
 3.Скриншот настроек приложения
-![Screenshot](Screenshot2.png)
+![Screenshots](Screenshot2.png)
 
 
