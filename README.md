@@ -31,10 +31,13 @@
 <li> WeatherLocation
 <li> Material Design
 
+<br>
 1.Скриншот экрана погоды в метрической системе измерения
 ![Screenshots](Screenshot1.png)
+<br>
 2.Скриншот экрана погоды в имперской системе измерения
 ![Screenshots](Screenshot3.png)
+<br>
 3.Скриншот настроек приложения
 ![Screenshots](Screenshot2.png)
 
