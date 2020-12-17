@@ -32,19 +32,20 @@
 <li> Material Design
 <br>
 <br>
-##Screenshots
-  
+
+## Скриншоты
+
 1.Скриншот экрана погоды в метрической системе измерения
 <br>
-![Screenshot1](https://user-images.githubusercontent.com/63846369/102480780-d725e880-4071-11eb-986e-3bc4a913c27a.png)
+<img src="https://user-images.githubusercontent.com/63846369/102480780-d725e880-4071-11eb-986e-3bc4a913c27a.png" width="500">
 <br>
 2.Скриншот экрана погоды в имперской системе измерения
 <br>  
-![Screenshot3](https://user-images.githubusercontent.com/63846369/102481324-9f6b7080-4072-11eb-88af-d1ad29c46759.png)
+<img src="https://user-images.githubusercontent.com/63846369/102481324-9f6b7080-4072-11eb-88af-d1ad29c46759.png" width="500">
 <br>
 3.Скриншот настроек приложения
 <br> 
-![Screenshot2](https://user-images.githubusercontent.com/63846369/102481306-97133580-4072-11eb-8e63-118c8a09bfb3.png)
+<img src="https://user-images.githubusercontent.com/63846369/102481306-97133580-4072-11eb-8e63-118c8a09bfb3.png" width="500">
 
 
 
