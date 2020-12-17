@@ -46,6 +46,7 @@
 3.Скриншот настроек приложения
 <br> 
 <img src="https://user-images.githubusercontent.com/63846369/102481306-97133580-4072-11eb-8e63-118c8a09bfb3.png" width="400">
+<br>
 
 
 
